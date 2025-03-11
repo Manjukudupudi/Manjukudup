@@ -46,7 +46,7 @@ A data storage solution built with Azure services for large-scale data managemen
 ## 📫 Contact Me
 
 - **Email**: [Manjuaug22@Gmail.com]
-- **LinkedIn**: [Manju.kud2208@Gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/manju-kudupudi-731542291]
 
 ---
 
