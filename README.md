@@ -12,23 +12,23 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in **Power BI**,
 
 ## 🚀 Projects
 
-### 1. **Power BI Dashboard - Sales Performance**
+### 1. **Power BI Dashboard - Adventure Works**
 An interactive dashboard to analyze sales performance across regions and periods.  
 - **Tech**: Power BI, DAX, SQL  
 - [View Repository](Link to Repository)
 
-### 2. **SQL Database for Customer Data**
+### 2. **SQL Database for Retail Sales, World_DB Datasets**
 An SQL-based database designed to analyze customer purchase behavior.  
-- **Tech**: SQLServer, MYSQL 
+- **Tech**: MYSQL 
 - [View Repository](Link to Repository)
 
-### 3. **Python Data Analysis: Retail Sales**
+### 3. **Python Data Analysis: Student data, GDP(nominal) per capita**
 Using Pandas and Matplotlib to analyze retail sales data and visualize trends.  
 - **Tech**: Python, Pandas, Matplotlib  
 - [View Repository](Link to Repository)
 
-### 4. **Tableau Dashboard - Web Traffic**
-A Tableau dashboard for web traffic analysis, with various KPIs and interactive elements.  
+### 4. **Tableau Dashboard - EMSI_Jobchange_UK, Spotify, Health Survey**
+A Tableau dashboards for above projects analysis, with various KPIs and interactive elements.  
 - **Tech**: Tableau  
 - [View Repository](Link to Repository)
 
@@ -39,9 +39,12 @@ A data storage solution built with Azure services for large-scale data managemen
 
 ## 📚 Certifications
 
-- **Microsoft Certified: Azure Fundamentals**
-- **Power BI Data Analyst (Self-Study)**
-- **Python for Data Science (Coursera)**
+*ETCAL Level 1 Certifications in*
+- Digital Contact Centre Operations
+- Cybersecurity
+- Occupational Skills
+- Personal and Social Skills
+- Introduction to Lean Techniques
 
 ## 📫 Contact Me
 
@@ -51,7 +54,6 @@ A data storage solution built with Azure services for large-scale data managemen
 ---
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss data analytics!
-This README.md file is perfect for displaying on GitHub, providing a structured overview of your skills, projects, and contact information. The provided links to repositories can be customized with your actual GitHub project links.
 
 
 
