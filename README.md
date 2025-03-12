@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in **Power BI**,
 ## 🚀 Projects
 
 ### 1. **Excel - Bike Sales**
-The powerful spreadsheats and dashboards used to analyse the bike sales data.
+The powerful spreadsheets and dashboards used to analyse the bike sales data.
 - **Tech**: Excel
 - [Manjukudup](Excel)
 
