@@ -12,20 +12,26 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in **Power BI**,
 
 ## 🚀 Projects
 
-### 1. **Power BI Dashboard - Adventure Works**
+### 1. **Excel - Bike Sales**
+The powerful spreadsheats and dashboards used to analyse the bike sales data.
+-**Tech**: Excel
+-[Manjukudup](Excel)
+
+
+### 2. **Power BI Dashboard - Adventure Works**
 An interactive dashboard to analyze sales performance across regions and periods.  
 - **Tech**: Power BI, DAX, SQL  
-- [View Repository](Link to Repository)
+- [Manjukudup](PowerBI)
 
 ### 2. **SQL Database for Retail Sales, World_DB Datasets**
 An SQL-based database designed to analyze customer purchase behavior.  
 - **Tech**: MYSQL 
-- [View Repository](Link to Repository)
+- [Manjukudup](MySQL)
 
 ### 3. **Python Data Analysis: Student data, GDP(nominal) per capita**
 Using Pandas and Matplotlib to analyze retail sales data and visualize trends.  
 - **Tech**: Python, Pandas, Matplotlib  
-- [View Repository](Link to Repository)
+- [Manjukudup](Python)
 
 ### 4. **Tableau Dashboard - EMSI_Jobchange_UK, Spotify, Health Survey**
 A Tableau dashboards for above projects analysis, with various KPIs and interactive elements.  
@@ -35,7 +41,7 @@ A Tableau dashboards for above projects analysis, with various KPIs and interact
 ### 5. **Azure Cloud Architecture**
 A data storage solution built with Azure services for large-scale data management.  
 - **Tech**: Azure, Blob Storage, SQL Database  
-- [View Repository](Link to Repository)
+- [Manjukudup](AzureFundamentals)
 
 ## 📚 Certifications
 
