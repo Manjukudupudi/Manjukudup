@@ -45,7 +45,7 @@ A data storage solution built with Azure services for large-scale data managemen
 
 ## 🎓 Education
 
-### **Bachelor of Science in Computer Science**
+### **Bachelor of Technology in Computer Science**
 **[Jawarharlal Nehru University]**, [AP,India]  
 **Graduation Year**: [Aug 2006- May 2010]
 
