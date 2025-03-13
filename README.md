@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in **Power BI**,
 - **Tableau**: Data visualization to help users understand and interpret business insights.
 - **Azure Fundamentals**: Using Microsoft Azure for cloud storage, data analytics, and more.
 
-  ## 🎓 Training
+ ## 🎓 Training
 
 ### **Data Skills Bootcamp: Data Technician**
 **Just IT Training Ltd, London**  
