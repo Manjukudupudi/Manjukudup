@@ -43,6 +43,10 @@ A data storage solution built with Azure services for large-scale data managemen
 - **Tech**: Azure, Blob Storage, SQL Database  
 - [Manjukudup](AzureFundamentals)
 
+## Education
+- Graduation (B-Tech) in Computer Science Engineering from Jawarharlal Nehru Technological University, India
+- (Aug 2006 to May 2010)
+
 ## 📚 Certifications
 
 *ETCAL Level 1 Certifications in*
@@ -51,6 +55,7 @@ A data storage solution built with Azure services for large-scale data managemen
 - Occupational Skills
 - Personal and Social Skills
 - Introduction to Lean Techniques
+- Level 3 Data Technician Skills (Just IT)
 
 ## 📫 Contact Me
 
