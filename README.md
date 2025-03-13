@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in **Power BI**,
 
   ## 🎓 Training
 
-### **Digital Skills Bootcamp: Data Technician**
+### **Data Skills Bootcamp: Data Technician**
 **Just IT Training Ltd, London**  
 **01/25 - Present**
 
