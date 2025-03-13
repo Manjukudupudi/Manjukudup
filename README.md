@@ -10,6 +10,34 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in **Power BI**,
 - **Tableau**: Data visualization to help users understand and interpret business insights.
 - **Azure Fundamentals**: Using Microsoft Azure for cloud storage, data analytics, and more.
 
+  ## 🎓 Training
+
+### **Digital Skills Bootcamp: Data Technician**
+**Just IT Training Ltd, London**  
+**01/25 - Present**
+
+A twelve-week intensive bootcamp that covers the fundamentals of becoming a **Data Technician** with key modules focused on data analysis and visualization tools.
+
+**Key Learnings**:
+- **Data, and Data Structures**: Understanding the foundations of data and how it's structured.
+- **Data Architecture & Governance**: Concepts related to data organization and security.
+- **Data Analysis using MS Excel**: Leveraging Excel for data analysis, cleaning, and basic visualization.
+- **Introduction to Data Visualization**: Using **MS Excel**, **Tableau**, and **Power BI** for creating visual insights.
+- **Power BI**: In-depth training on data analytics and visualization with Power BI.
+- **Database Fundamentals**: Introduction to **MySQL** for database management and querying.
+- **Azure Fundamentals**: Understanding core data concepts and services on Microsoft Azure.
+  - **Module 1**: Core data concepts - SaaS, Cloud technologies
+  - **Module 2**: Relational data in Azure databases
+  - **Module 3**: Non-relational data in Azure databases
+  - **Module 4**: Fundamentals of data analytics in Azure
+- **Data Analysis via Python**: Using **Pandas**, **Matplotlib**, and **Seaborn** for data analysis and visualization.
+
+## 🎓 Education
+
+### **Bachelor of Technology in Computer Science**
+**[Jawarharlal Nehru University]**, [AP,India]  
+**Graduation Year**: [Aug 2006- May 2010]
+
 ## 🚀 Projects
 
 ### 1. **Excel - Bike Sales**
@@ -43,11 +71,6 @@ A data storage solution built with Azure services for large-scale data managemen
 - **Tech**: Azure, Blob Storage, SQL Database  
 - [Manjukudup](AzureFundamentals)
 
-## 🎓 Education
-
-### **Bachelor of Technology in Computer Science**
-**[Jawarharlal Nehru University]**, [AP,India]  
-**Graduation Year**: [Aug 2006- May 2010]
 
 ## 📚 Certifications
 
