@@ -43,9 +43,11 @@ A data storage solution built with Azure services for large-scale data managemen
 - **Tech**: Azure, Blob Storage, SQL Database  
 - [Manjukudup](AzureFundamentals)
 
-## Education
-- Graduation (B-Tech) in Computer Science Engineering from Jawarharlal Nehru Technological University, India
-- (Aug 2006 to May 2010)
+## 🎓 Education
+
+### **Bachelor of Science in Computer Science**
+**[Jawarharlal Nehru University]**, [AP,India]  
+**Graduation Year**: [Aug 2006- May 2010]
 
 ## 📚 Certifications
 
