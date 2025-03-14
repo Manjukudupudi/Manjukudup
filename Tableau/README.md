@@ -15,5 +15,5 @@ Comparison of Tableau Versions:
 
  ***EMSI_JOBCHANGE_UK Project***
  Using the EMSI_JobChange_UK dataset, created a dashboard, and a bar chart showing percentage change and a UK based map showing the key city locations impacted.
-![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Tableau/EMSI%20JobChange%20UK%20Dashboard.png)
+ ![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Tableau/EMSI%20JobChange%20UK%20Dashboard.png)
  
