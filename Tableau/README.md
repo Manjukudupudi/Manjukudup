@@ -15,6 +15,7 @@ It enables to analyze large datasets and present insights through charts, graphs
  ![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Tableau/EMSI%20JobChange%20UK%20Dashboard.png)
 
 ***Health_Survey***
+![Data.twbx](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Tableau/Day_2_Task_2_Health_Survey_Trainer_Copy.twbx)
 
  
  
