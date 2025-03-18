@@ -1,3 +1,15 @@
+***EXCEL***
+
+Excel is a spreadsheet software developed by Microsoft that is used for Data organization, analysis, and visualization.
+It allows users to create and manage data in rows and columns within a grid-structure.
+Excel is widely used for tasks such as:
+- Data entry and organization for storing and managing large datasets.
+- Calculations and formulas like SUM, AVERAGE, IF.
+- Data analysis- using features like pivot tables, and filters.
+- Visualization- used for creating charts and graphs to represent data visually.
+- Automation- using macros to automate repetative tasks.
+- Financial Modeling- Building budgets, forecasts, and financial reports.
+
 1.	In the sheet ‘retail_sales_dataset’ add all available data between columns A – H into a ‘table’
 2.	Using the ‘filter’ function, filter ‘Age’ to ‘largest to smallest’
 3.	Using the ‘SUM’ function, show me the commission total in cell ‘P10’
