@@ -23,9 +23,11 @@ Excel is widely used for tasks such as:
 
 By using the Student Dataset applied the filter functions and calculated the average for all students and using the max function retrieved the
 highest score and applied the conditional formatting to identify the highest and lowest average scores.
+
 ![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Excel/Using%20Filter%20Functions%20and%20conditional%20formating.png)
 
 **Bike_Sales_Pivot_Lab**
+
 By Using the Bike Sales Pivot Lab and Visualization Lab get the trends and Key information like Sales Summary by Country, Product Revenue by Country, Revenue Comparision by Age Group, Revenue vs Profits, and Sales in all Markets. 
 ![Data.xlsx](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Excel/Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx)
 
@@ -38,6 +40,7 @@ By Using the Bike Sales Pivot Lab and Visualization Lab get the trends and Key i
 ![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Excel/Revenue%20comparision%20by%20age%20group.png)
 
 **Bike_Sales_Visualisations_Lab**
+
 ![Data.xlsx](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Excel/Day_3_Task_3_Bike_Sales_Visualisations_Lab.xlsx)
 
 ![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Excel/Revenue%20vs%20profits.png)
