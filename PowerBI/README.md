@@ -16,3 +16,18 @@ By using the Adventure Works Dataset (Starter Sales Analysis) perform the ETL tr
 
 ![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/PowerBI/Load%20transformed%20data%20in%20Power%20BI.png)
 
+In Lab6 by using the Adventure Works Starter Sales Analysis data designed a report based on the specifications or client requirements such as Sum of Sales and Profit Margin by Month, Sum of Sales by Country and Category, and Sum of Quantity by Category.
+
+![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/PowerBI/Screenshot%202025-02-06%20115013.png)
+
+![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/PowerBI/Screenshot%202025-02-06%20115140.png)
+
+![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/PowerBI/Screenshot%202025-02-06%20125959.png)
+
+![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/PowerBI/Screenshot%202025-02-06%20141457.png)
+
+In Lab9 created a dashboard on Adventure Works Starter Sales Analysis data.
+
+![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/PowerBI/Power%20BI%20Dashboard.png)
+
+
