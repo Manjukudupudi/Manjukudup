@@ -29,6 +29,7 @@ highest score and applied the conditional formatting to identify the highest and
 **Bike_Sales_Pivot_Lab**
 
 By Using the Bike Sales Pivot Lab and Visualization Lab get the trends and Key information like Sales Summary by Country, Product Revenue by Country, Revenue Comparision by Age Group, Revenue vs Profits, and Sales in all Markets. 
+
 ![Data.xlsx](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Excel/Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx)
 
 ![Dashboard](https://github.com/Manjukudupudi/Manjukudup/blob/Projects/Excel/Bike%20Sales%20Summary.png)
